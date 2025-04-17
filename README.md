@@ -1,6 +1,11 @@
 ## Raissa
 <p>
-Me chamo Raissa Kaori Kawakami, tenho 18 anos. Atualmente curso Ciência da Computação na UNIMAR, minha paixão por tecnologia e inovação me levou a focar no desenvolvimento aplicativos que sejam eficientes, intuitivos e impactantes para os usuários. O meu desenvolvimento de Soft e Hard Skills é constantemente praticado com projetos que trabalham as areas de resolução de problemas, trabalho em equipe, pensamento analítico e colaborando com idéias criativas 
+Me chamo Raissa Kaori Kawakami e, há algum tempo, a tecnologia vem me surpreendendo com sua capacidade de transformar ideias em realidade.
+Como uma pessoa criativa, encontrei na programação uma forma de dar vida a essas ideias, e foi aí que mergulhei no universo do desenvolvimento mobile.
+
+Desde então, venho me dedicando ao aprendizado contínuo, com foco no aprimoramento das minhas habilidades em linguagens como React Native, CSS, JavaScript e HTML.
+
+Hoje, busco oportunidades que me desafiem a evoluir como desenvolvedora e ampliar meu repertório técnico e criativo.
 </p>
 
 </br>
